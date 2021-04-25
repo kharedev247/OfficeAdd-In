@@ -1,0 +1,12 @@
+add-in/node_modules
+sh-web-app/node_modules
+
+
+# compiled output
+add-in/dist
+add-in/tmp
+add-in/out-tsc
+
+sh-web-app/dist
+sh-web-app/tmp
+sh-web-app/out-tsc
